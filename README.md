@@ -7,6 +7,14 @@ This project documents my cybersecurity home lab built using VirtualBox.
 - Ubuntu Server
 - Windows 10
 - Kali Linux
+- Oracle VirtualBox
+
+## Features
+-Wazuh SIEM deployment
+-Windows endpoint monitoring
+-Security event collection
+-Authentication event visibility
+-Multi-VM virtual lab environment
 
 ## Architecture
 
@@ -14,4 +22,4 @@ Kali Linux (Attacker/Simulate Attack)
         |
 Windows 10 (Target)
         |
-Ubuntu Server (Monitoring)
+Ubuntu Server (Wazuh SIEM)
